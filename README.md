@@ -1,29 +1,29 @@
 List of Projects
 
-Super Snowman 
+1. Super Snowman 
 
-shooting star 
+2. shooting star 
 
-what's your favorite food 
+3. what's your favorite food 
 
-wild animal 
+4. wild animal 
 
-AD Design 
+5. AD Design 
 
-Fish Tank 
+6. Fish Tank 
 
-Magic 8 ball 
+7. Magic 8 ball 
 
-build a house 
+8. build a house 
 
-make it rain 
+9. make it rain 
 
-bookshelf 
+10. bookshelf 
 
-paint splatter 
+11. paint splatter 
 
-Computational Creatures 
+12. Computational Creatures 
 
-Holiday card 
+13. Holiday card 
 
-Recipe Book 
+14. Recipe Book 
